@@ -1,0 +1,103 @@
+2004
+
+    Made them care about clothes more
+
+2005
+
+    Fixed a bug where animals could rent rooms
+    Fixed bug with animals picking out clothes to wear
+    Fixed bug with mules shitting luggage
+    Cleaned up the bear situation
+
+2006
+
+    Added cat butchery
+    Fixed problem with undead passing out from strangling
+    Made the corpses of small animals that die out of water stop teleporting
+    Made dwarves care if you melt down their masterpieces
+    Stopped soldiers from going to parties
+    Added mouths
+    Added an aperture flag that stops mouths from being gouged out
+
+2007
+
+    Stopped children from buying shops
+    Stopped happy thoughts from sleeping in beds in amazing dining rooms
+    Fixed bug where all the local rock turned into sky whenever migrant groups were created anywhere in the world
+    Made semimegabeasts get along better with their cave friends
+    Fixed a problem with blood hanging in the air
+    Stopped elves from being pleased with unethical trades
+
+2008
+
+    Stopped children and babies from joining you on your adventures
+    Allowed dwarves to get married
+    Made thieves and their support groups respect each other
+    Stopped booze food from melting, even though it probably should
+    Made dungeon masters happy with their cloaks and boots again
+    Made all undead respectful of one another
+    Fixed problem with the king coming early and not actually showing up
+    Stopped aerial births
+    Fixed problem causing dwarves to target harmless insane people while making evil creatures spare them and babies
+    Stopped looping dwarves from constantly trying out gloves and boots when they should just pick one and go
+
+2010
+
+    Alligators have hair and other unintended attributes
+    Rain kills everything it lands on
+    Dwarves given their choice of weapons will choose ones too big to use
+    Humans in Farming houses are naked
+    Tigerman does not have ears
+    Blind cave bears have front toes on both front and rear feet
+    Magma crabs drown in magma
+    Dead dwarves remain in their squads
+
+2011
+
+    RODENT MAN has no teeth
+    Honeycombs get encrusted with jewels
+    Zombie hens claiming nests and laying "regular" eggs
+    Dwarves come to hospital to Rest without injuries (and also endless tooth surgery)
+    Dwarves play tug of war with caged animals marked for slaughter
+    Serpent Men can Kick
+    ALL primates have front and back legs (with accompanying feet), no arms or hands, yet have fingers, somewhere
+    Rodent men don't use their new teeth to bite
+
+2012
+
+    Ghost of vampires still drink blood
+    Sleeping on a melting iceberg results in waking up as a demon or other underground creature
+    Boots don't count as shoes, military gets bad thoughts
+    Vampire accuses baby of killing victim
+    Dwarf children die from embarassment at not being dressed at age 2
+    Weasels probably shouldn't be found on glaciers
+    Undead cat can adopt dwarf
+    Vampires who have been scouts brag about murders they committed while scouting
+    Undead dwarf contracted were-chameleon curse
+
+2014
+
+    Dwarf misses completely unrelated dwarf
+    Fat dwarves eating causes lag
+    Copper coins pass through this boar when thrown at it
+    Zombies start conversation with necromancer adventurer who tries to sleep in their house
+    Dwarf tries to clean missing body part
+    Animals all try to graze from pasture's top left corner, starvation ensues
+    Social skill gains by attending parties is off the charts
+    Animals get attached to clothes they're wearing
+
+2015
+
+    Animal breeding is prevented if animals aren't "willing to marry"
+    Moon snail men can't punch or see
+    Cats dying for no reason - alcohol poisoning?
+    Seems impossible to satisfy a need for "introspection"
+    Frozen in time; no way to re-enter time continuum
+    Incorrect use of "whom" in elf.txt
+    Nonlethal fall onto upright spike causes unreasonably high skill gain
+    Dwarfs refuse to use picks after unforbidding said picks while traders are present with their own picks
+    Giraffe is trainable for war
+
+2016
+
+    All animals are described as "Gigantic"
